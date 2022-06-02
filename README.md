@@ -16,7 +16,7 @@ Follow the Steps:
 {02} --⫸ Open Another Window
 {03} --⫸ cd Website, then cd *site you want to host*
 {04} --⫸ Launch PHP Localhost Server Using Port 3333 (php -S localhost:3333)
-{05} --⫸ Open Another Window and Tunnel Your Localhost (ngrok http 3333)
+{05} --⫸ Open Another Window  Tunnel Your Localhost (ngrok http 3333)
 {06} --⫸ Copy The Link That ngrok Create
 {07} --⫸ Choose The Website you Wish on Phishbait
 {08} --⫸ Now ngrok's Link is Ready. If you Check, Your Localhost Server is Working Good.
@@ -28,7 +28,7 @@ Screenshot
 Watch Me
 
 ❗ Disclaimer❗
--Developer assume no liability and is NOT
+-Developer assume no liability  is NOT
 -responsible for any misuse or damage caused by PhishBait.
 -Use only for educational purporses
 👤 My Accounts 👤
